@@ -1,0 +1,10 @@
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\bin\Debug\EGN2.exe.config
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\bin\Debug\EGN2.exe
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\bin\Debug\EGN2.pdb
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.csprojAssemblyReference.cache
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.Form1.resources
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.Properties.Resources.resources
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.csproj.GenerateResource.cache
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.csproj.CoreCompileInputs.cache
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.exe
+C:\Users\Svetlio - PC\source\repos\EGN2\EGN2\obj\Debug\EGN2.pdb
